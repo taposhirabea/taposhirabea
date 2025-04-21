@@ -8,13 +8,13 @@
     <h1>I'm Taposhi Rabea – Building Scalable Web Solutions with Passion</h1>
     <p>Full-Stack Developer passionate about crafting scalable and high-performance web applications. Skilled in building modern, dynamic solutions with Next.js, Strapi, Express, and NestJS. Continuously exploring new technologies, currently diving into Python and Django to expand my expertise. Always eager to innovate, learn, and collaborate on impactful projects! 🚀</p>
     <div align="center"> 
-  <a href="atikrahad1@gmail.com">
+  <a href="taposhirabea3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/atik-rahad/" target="_blank">
+  <a href="https://www.linkedin.com/in/taposhi-rabea-bb58b21b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://atik-rahad.netlify.app" target="_blank">
+  <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -55,10 +55,10 @@
 <h2 align="center">⚡ Stats for GitHub ⚡</h2>
 <br>
 <div align=center>
- <img width=347 src="https://github-readme-stats.vercel.app/api/top-langs?username=atikrahad&show_icons=true&locale=en&layout=compact" alt="atikrahad" />
-<a href="https://github.com/atikrahad"><img alt=atikrahad Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikrahad&show_icons=true&count_private=true&title_color=fffff"/></a>
+ <img width=347 src="https://github-readme-stats.vercel.app/api/top-langs?username=atikrahad&show_icons=true&locale=en&layout=compact" alt="taposhi" />
+<a href="https://github.com/taposhirabea"><img alt=atikrahad Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikrahad&show_icons=true&count_private=true&title_color=fffff"/></a>
 <br/>
-<a href="https://leetcode.com/u/atikrahad" target="_blank"> <img src="https://leetcard.jacoblin.cool/atikrahad?ext=contest"/></a> 
+<a href="" target="_blank"> <img src="https://leetcard.jacoblin.cool/atikrahad?ext=contest"/></a> 
 </div>
 
 <h3 align="center"> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
@@ -66,6 +66,6 @@
 <div>
 <p>
 </br>
-  <a href="https://x.com/atik_rahad"><img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/atik-rahad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/atik_rahad1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://www.facebook.com/atik.rahat.10"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://medium.com/@atikrahad1"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>  
+ <a href="https://www.linkedin.com/in/taposhi-rabea-bb58b21b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/atik_rahad1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://www.facebook.com/taposhi.rabea.7/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> </p>  
 </div>
 
