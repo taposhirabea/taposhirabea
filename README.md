@@ -56,7 +56,7 @@
 <br>
 <div align=center>
  <img width=347 src="https://github-readme-stats.vercel.app/api/top-langs?username=atikrahad&show_icons=true&locale=en&layout=compact" alt="taposhi" />
-<a href="https://github.com/taposhirabea"><img alt=atikrahad Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikrahad&show_icons=true&count_private=true&title_color=fffff"/></a>
+<a href="https://github.com/taposhirabea"><img alt=taposhi Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=taposhi&show_icons=true&count_private=true&title_color=fffff"/></a>
 <br/>
 <a href="" target="_blank"> <img src="https://leetcard.jacoblin.cool/atikrahad?ext=contest"/></a> 
 </div>
@@ -66,6 +66,6 @@
 <div>
 <p>
 </br>
- <a href="https://www.linkedin.com/in/taposhi-rabea-bb58b21b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/atik_rahad1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://www.facebook.com/taposhi.rabea.7/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> </p>  
+ <a href="https://www.linkedin.com/in/taposhi-rabea-bb58b21b9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  <a href="https://www.facebook.com/taposhi.rabea.7/"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> </p>  
 </div>
 
